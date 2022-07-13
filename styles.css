@@ -7,7 +7,7 @@
   }
   
   .question-item.correct {
-    color: greenyellow;
+    color: green;
   }
   
   .question-item.incorrect {
